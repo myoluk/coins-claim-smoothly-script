@@ -3,3 +3,5 @@
 Claim coins smootly without using Animator.
 
 Script uses DOtween package.
+
+![Coins Claim](https://myoluk.github.io/images/coins-claim.png)
