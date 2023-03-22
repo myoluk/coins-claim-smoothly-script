@@ -10,7 +10,7 @@ https://user-images.githubusercontent.com/61617126/226804325-8ab1947e-9529-4cb0-
 1. Create coin objects and assign them a parent, set active `false` for parent
 2. Add script to any object
 3. The Inspector tab of script object, should assigned:
-    - Coins parent object
+    - Coins' parent object
     - Text object which count collected coins
     - Button object that calls `CollectCoins` method on click
     - Coins drop sound object
