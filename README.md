@@ -4,7 +4,7 @@
 
 ⭐ Script uses [DOtween](https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676) package.
 
-Volume up
+🔊 Volume up
 
 https://user-images.githubusercontent.com/61617126/226804325-8ab1947e-9529-4cb0-ad8b-c2bcb639d648.mp4
 
