@@ -18,4 +18,4 @@ https://user-images.githubusercontent.com/61617126/226804325-8ab1947e-9529-4cb0-
     - Coins drop sound object
     - Coins collect sound object
 
-👉 _Assets folder contains UI and sounds files._
+👉 _Assets folder contains UI and sounds files_
