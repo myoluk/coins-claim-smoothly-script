@@ -8,7 +8,7 @@
 
 https://user-images.githubusercontent.com/61617126/226804325-8ab1947e-9529-4cb0-ad8b-c2bcb639d648.mp4
 
-## Using Script
+## 🚀 Using Script
 1. Create coin objects and assign them a parent, set active `false` for parent
 2. Add script to any object
 3. The Inspector tab of script object, should assigned:
