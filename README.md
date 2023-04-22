@@ -1,4 +1,4 @@
-# 🪙 Unity Coins Claim Smoothly Script (with sound)
+# 🪙 Unity Coins Claim Smoothly Script (with sound 🔊)
 
 ⭐ Claim coins smootly without using Animator
 
